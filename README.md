@@ -1,6 +1,14 @@
 <h1 align="center"><img src="anime-animated-fog-shmah.webp"/></h1>
 <h1 align="center">💚 SHMAH 💚 </h1>
 
+<div align="center">
+	<br>
+	<a href="https://twitch.tv/rumhamshmah">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+
 ## Join the Chaos! 💣💥, Join the Fun! 🎉😹
 ![Discord](https://img.shields.io/discord/94588651148681216?style=plastic&logo=discord&label=Shmah's%20Lair&color=maroon)
 ![Twitch Status](https://img.shields.io/twitch/status/rumhamshmah?style=plastic&logo=twitch&color=maroon)
